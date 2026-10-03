@@ -28,3 +28,10 @@ Before running the script, install the required dependency using pip:
 ```bash
 pip install moviepy
 ```
+
+## 授權
+
+本專案採用 MIT License。
+
+詳細內容請參閱 [LICENSE](https://github.com/Wayne27304/Quick-Media-Tool/blob/main/LICENSE)。
+
